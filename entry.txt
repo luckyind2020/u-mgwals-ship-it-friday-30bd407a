@@ -1,0 +1,1 @@
+ship: Friday deploy to prod — tests passed on my machine, rollback plan is vibes, Monday-me can handle the rest
